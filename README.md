@@ -1,5 +1,9 @@
 # wifi-led-stipes
 
+## Bauanleitung
+
+Die [Bauanleitung](Bauanleitung.pdf) befindet sich im Repository als PDF.
+
 ## Teileliste
 
 | Bauteil              | Link                                                                           |
